@@ -1,7 +1,7 @@
 // -----------------------------------------------------
 // NOTE: THIS HEADER IS ALSO INCLUDED BY ASSEMBLER SO
 //       SHOULD ONLY CONSIST OF PREPROCESSOR DIRECTIVES
-// -----------------------------------------------------
+// ----------------------------------------------------
 
 #ifndef _BOARDS_FEATHER_HOST_H
 #define _BOARDS_FEATHER_HOST_H
